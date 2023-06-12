@@ -1,24 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./components/Navbar";
+import useTheme from "./hooks/useTheme";
+import Router from "./routes";
+import { useLang } from "./utils/lang_context";
 
 function App() {
+  const { bgTheme } = useTheme();
+  const { actualLang } = useLang();
+  const dir = actualLang === "ar" ? "rtl" : "ltr";
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar />
+      <div className={`py-8 px-8 md:px-16 lg:px-24`} dir={dir}>
+        <Router />
+      </div>
+    </>
   );
 }
 
