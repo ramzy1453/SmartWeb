@@ -35,10 +35,10 @@ AI Toolbox is a collection of AI-powered tools designed to simplify various task
 - **Text-to-Speech Conversion:** Convert text into speech for various applications.
 
 ## Examples
-![Home][(https://cdn.discordapp.com/attachments/804151950227537980/1117966488817639517/image.png)]
-![Bmi][(https://cdn.discordapp.com/attachments/804151950227537980/1117966565959290940/image.png)]
-![Language Detection][(https://media.discordapp.net/attachments/804151950227537980/1117967401070374942/image.png)]
-![Image Detection][(https://cdn.discordapp.com/attachments/804151950227537980/1117967258069778492/image.png)]
+![Home](https://cdn.discordapp.com/attachments/804151950227537980/1117966488817639517/image.png)
+![Bmi](https://cdn.discordapp.com/attachments/804151950227537980/1117966565959290940/image.png)
+![Language Detection](https://media.discordapp.net/attachments/804151950227537980/1117967401070374942/image.png)
+![Image Detection](https://cdn.discordapp.com/attachments/804151950227537980/1117967258069778492/image.png)
 
 
 ## Installation
