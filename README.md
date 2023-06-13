@@ -1,8 +1,6 @@
-# AI Toolbox
+# SmartWeb
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-AI Toolbox is a collection of AI-powered tools designed to simplify various tasks. This repository provides different functionalities, including image content detection, face detection, sentiment analysis, language detection, BMI calculation, and text-to-speech conversion.
+SmartWeb is a collection of AI-powered tools designed to simplify various tasks. This repository provides different functionalities, including image content detection, face detection, sentiment analysis, language detection, BMI calculation, and text-to-speech conversion.
 
 ## Features
 
@@ -23,7 +21,7 @@ git clone https://github.com/your-username/ai-toolbox.git
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-AI Toolbox is a collection of AI-powered tools designed to simplify various tasks. This repository provides different functionalities, including image content detection, face detection, sentiment analysis, language detection, BMI calculation, and text-to-speech conversion.
+SmartWeb is a collection of AI-powered tools designed to simplify various tasks. This repository provides different functionalities, including image content detection, face detection, sentiment analysis, language detection, BMI calculation, and text-to-speech conversion.
 
 ## Features
 
