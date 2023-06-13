@@ -11,27 +11,6 @@ SmartWeb is a collection of AI-powered tools designed to simplify various tasks.
 - **BMI Calculator:** Calculate Body Mass Index (BMI) to determine if an individual is overweight or not.
 - **Text-to-Speech Conversion:** Convert text into speech for various applications.
 
-## Installation
-
-1. Clone the repository:
-
-````shell
-git clone https://github.com/your-username/ai-toolbox.git
-# AI Toolbox
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-SmartWeb is a collection of AI-powered tools designed to simplify various tasks. This repository provides different functionalities, including image content detection, face detection, sentiment analysis, language detection, BMI calculation, and text-to-speech conversion.
-
-## Features
-
-- **Image Content Detection:** Utilize deep learning algorithms to identify objects in images.
-- **Face Detection:** Detect faces in images using TensorFlow.
-- **Sentiment Analysis:** Perform sentiment analysis on textual data using machine learning techniques.
-- **Language Detection:** Determine the language of a given text.
-- **BMI Calculator:** Calculate Body Mass Index (BMI) to determine if an individual is overweight or not.
-- **Text-to-Speech Conversion:** Convert text into speech for various applications.
-
 ## Examples
 ![Home](https://cdn.discordapp.com/attachments/804151950227537980/1117966488817639517/image.png)
 ![Bmi](https://cdn.discordapp.com/attachments/804151950227537980/1117966565959290940/image.png)
