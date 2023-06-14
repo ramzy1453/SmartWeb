@@ -8,7 +8,7 @@ SmartWeb is a collection of AI-powered tools designed to simplify various tasks.
 - **Face Detection:** Detect faces in images using TensorFlow.
 - **Sentiment Analysis:** Perform sentiment analysis on textual data using machine learning techniques.
 - **Language Detection:** Determine the language of a given text.
-- **BMI Calculator:** Calculate Body Mass Index (BMI) to determine if an individual is overweight or not.
+- **BMI Calculator:** Calculate Body Mass Index (BMI) to determine if an individual is overweight or not
 - **Text-to-Speech Conversion:** Convert text into speech for various applications.
 
 ## Examples
